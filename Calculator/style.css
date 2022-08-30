@@ -45,6 +45,10 @@ body{
     background-color: #292D36;
 }
 
+.yellow-btn{
+    color: yellow;
+}
+
 .green-btn{
     color: #26F7D1;
 }
@@ -63,3 +67,4 @@ body{
     text-align: right;
     padding-top: 15px;
 }
+
