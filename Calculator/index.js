@@ -20,6 +20,9 @@ window.onload = ()=>{
     }
 
     function factorialfunc(arr){
+        if(arr.length === 0){
+            return 0;
+        }
         let x = "";
 
         for(let i = 0; i< arr.length ; i++){
