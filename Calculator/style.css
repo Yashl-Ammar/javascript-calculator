@@ -1,0 +1,46 @@
+body{
+    background-color: #22252D;
+}
+
+
+.center {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+}
+
+.btn{
+    width: 85px;
+    height: 85px;
+    color: white;
+    background-color: #272B33;
+    font-size: x-large;
+    border-radius: 15px;
+    margin: 5px;
+    border: 0;
+    font-weight: 500;
+}
+
+.btn:hover{
+    background-color: #36B36C;
+}
+
+.btn:active{
+    background-color: #851e3e;
+}
+
+.color-div{
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #292D36;
+}
+
+.green-btn{
+    color: #26F7D1;
+}
+
+.red-btn{
+    color: #EB6666;
+}
